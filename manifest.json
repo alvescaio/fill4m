@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "Getting Started Example",
   "version": "1.0",
@@ -25,3 +26,11 @@
   },
   "manifest_version": 2
 }
+=======
+  {
+    "name": "Getting Started Example",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "manifest_version": 2
+  }
+>>>>>>> 0cb8ce3a4dc1b26e738779c9a7ce82e564cab9f3
