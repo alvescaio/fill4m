@@ -1,7 +1,7 @@
 # fill4m
 A chrome extension for complete a form for you
 
-# run the project
+## run the project
 For execute the project, follow the next steps:
 
 1. Clone this project in your workspace;
